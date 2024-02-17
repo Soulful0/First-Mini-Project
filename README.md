@@ -4,6 +4,8 @@
 
 ### There is without a doubt, unneccessary code, and most likely, missing code as well. Any help and advice would be greatly appreciated.
 
-## Also! I could not figure out why my form buttons were not as long as the image. I tried figuring it out on my own, but came up with no luck. Fortunately, I know professors who can help me become better and smarter about my code! Let me know anything that comes across your mind while looking at my code.
+## Also! I could not figure out why my form buttons were not as long as the image. I tried figuring it out on my own, but came up with no luck. 
+
+Let me know anything that comes across your mind while looking at my code.
 
 ### Thank you again!
