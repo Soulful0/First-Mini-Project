@@ -10,11 +10,6 @@ body {
   background-color: #d9dcd6;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
 p {
   font-size: 16px;
 }
@@ -26,7 +21,6 @@ div {
 .navigation {
   padding: 20px 0 20px 0;
   background-color: #27604f;
-  color: #ffffff;
   width: 100%;
 }
 
@@ -50,17 +44,18 @@ h1 {
 }
 
 .nav-btn {
+  text-decoration: none;
+  color: #fff;
 }
 
 .nav-btn:link,
 .nav-btn:visited {
-  background-color: #fff;
-  color: #555;
+  color: #fff;
 }
 
 .nav-btn:hover,
 .nav-btn:active {
-  background-color: #fdf2e9;
+  color: #d4d4d4;
 }
 
 .header {
@@ -112,6 +107,16 @@ h2 {
   background-color: #4f4847;
   color: white;
   border: 1.5px solid black;
+}
+
+.btn:link,
+.btn:visited {
+  background-color: #4f4847;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #6b6261;
 }
 
 .gap {
